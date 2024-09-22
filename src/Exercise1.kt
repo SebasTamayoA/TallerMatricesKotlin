@@ -1,12 +1,7 @@
-fun main() {
-
-    exercise1()
-
-}
-
 // 1. Leer una matriz A de orden M x N y un número K. Multiplicar todos los
 //elementos de la matriz por el número K. Mostrar la matriz resultante
-fun exercise1() {
+
+fun main() {
     println("Ejercicio 1")
 
     println("Ingrese el numero de filas")
@@ -50,5 +45,3 @@ fun exercise1() {
         println()
     }
 }
-
-

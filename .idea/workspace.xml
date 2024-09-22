@@ -4,42 +4,78 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65ecd6e9-bce0-41dc-895c-3b6349e9c8cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TallerMatricesKotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    <list default="true" id="65ecd6e9-bce0-41dc-895c-3b6349e9c8cc" name="Changes" comment="configuración inicial y ejercicio 1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise19.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise20.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FuntionsService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mPMn1D4yrgFUZKPrZG4e65zhGM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Exercise10Kt.executor": "Run",
+    "Kotlin.Exercise12Kt.executor": "Run",
+    "Kotlin.Exercise13Kt.executor": "Run",
+    "Kotlin.Exercise14Kt.executor": "Run",
+    "Kotlin.Exercise15Kt.executor": "Run",
+    "Kotlin.Exercise16Kt.executor": "Run",
+    "Kotlin.Exercise17Kt.executor": "Run",
+    "Kotlin.Exercise18Kt.executor": "Run",
+    "Kotlin.Exercise19Kt.executor": "Run",
+    "Kotlin.Exercise20Kt.executor": "Run",
+    "Kotlin.Exercise7Kt.executor": "Run",
+    "Kotlin.Exercise9Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sebas/IdeaProjects/TallerMatricesKotlin/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,6 +84,25 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sebas\IdeaProjects\TallerMatricesKotlin\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="TallerMatricesKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,11 +119,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726973928317</updated>
-      <workItem from="1726973929633" duration="713000" />
+      <workItem from="1726973929633" duration="1686000" />
+      <workItem from="1726975685337" duration="19000" />
+      <workItem from="1726975715713" duration="85000" />
+      <workItem from="1727025672056" duration="666000" />
+      <workItem from="1727026361016" duration="13224000" />
     </task>
+    <task id="LOCAL-00001" summary="configuración inicial y ejercicio 1">
+      <option name="closed" value="true" />
+      <created>1726974927731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726974927731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="configuración inicial y ejercicio 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="configuración inicial y ejercicio 1" />
   </component>
 </project>
